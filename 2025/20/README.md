@@ -1,6 +1,7 @@
 # Challenge 20: 🎁 Vertical warehouse
 
 **Difficulty:** 🟢 Easy
+
 **View:** [adventjs.dev/en/challenges/2025/20](https://adventjs.dev/en/challenges/2025/20)
 
 ## Instructions

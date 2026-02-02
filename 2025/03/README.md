@@ -1,6 +1,7 @@
 # Challenge 03: 👶 Help the intern
 
 **Difficulty:** 🟢 Easy
+
 **View:** [adventjs.dev/en/challenges/2025/3](https://adventjs.dev/en/challenges/2025/3)
 
 ## Instructions

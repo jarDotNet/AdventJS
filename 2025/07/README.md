@@ -1,6 +1,7 @@
 # Challenge 07: 🎄 Decorating the tree
 
 **Difficulty:** 🟡 Medium
+
 **View:** [adventjs.dev/en/challenges/2025/7](https://adventjs.dev/en/challenges/2025/7)
 
 ## Instructions

@@ -1,6 +1,7 @@
 # Challenge 11: 📹 Unwatched gifts
 
 **Difficulty:** 🟢 Easy
+
 **View:** [adventjs.dev/en/challenges/2025/11](https://adventjs.dev/en/challenges/2025/11)
 
 ## Instructions

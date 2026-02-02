@@ -1,6 +1,7 @@
 # Challenge 05: ⏱️ The countdown to take off
 
 **Difficulty:** 🟢 Easy
+
 **View:** [adventjs.dev/en/challenges/2025/5](https://adventjs.dev/en/challenges/2025/5)
 
 ## Instructions

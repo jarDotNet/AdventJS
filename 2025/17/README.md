@@ -1,6 +1,7 @@
 # Challenge 17: 🎄 The Christmas lights panel
 
 **Difficulty:** 🟢 Easy
+
 **View:** [adventjs.dev/en/challenges/2025/17](https://adventjs.dev/en/challenges/2025/17)
 
 ## Instructions

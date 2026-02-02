@@ -1,6 +1,7 @@
 # Challenge 02: 🏭 Manufacture the toys
 
 **Difficulty:** 🟢 Easy
+
 **View:** [adventjs.dev/en/challenges/2025/2](https://adventjs.dev/en/challenges/2025/2)
 
 ## Instructions

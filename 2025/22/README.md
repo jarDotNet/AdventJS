@@ -1,6 +1,7 @@
 # Challenge 22: 🎄 The sleigh maze
 
 **Difficulty:** 🔴 Hard
+
 **View:** [adventjs.dev/en/challenges/2025/22](https://adventjs.dev/en/challenges/2025/22)
 
 ## Instructions

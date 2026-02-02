@@ -1,6 +1,7 @@
 # Challenge 14: 🗃️ Find the gift path
 
 **Difficulty:** 🟢 Easy
+
 **View:** [adventjs.dev/en/challenges/2025/14](https://adventjs.dev/en/challenges/2025/14)
 
 ## Instructions

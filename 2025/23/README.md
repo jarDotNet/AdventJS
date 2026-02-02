@@ -1,6 +1,7 @@
 # Challenge 23: 🎁 Gift route
 
 **Difficulty:** 🟡 Medium
+
 **View:** [adventjs.dev/en/challenges/2025/23](https://adventjs.dev/en/challenges/2025/23)
 
 ## Instructions

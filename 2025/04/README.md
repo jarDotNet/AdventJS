@@ -1,6 +1,7 @@
 # Challenge 04: 🧮 Decipher the Santa PIN
 
 **Difficulty:** 🟡 Medium
+
 **View:** [adventjs.dev/en/challenges/2025/4](https://adventjs.dev/en/challenges/2025/4)
 
 ## Instructions

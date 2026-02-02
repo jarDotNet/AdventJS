@@ -1,6 +1,7 @@
 # Challenge 15: ✏️ Drawing tables
 
 **Difficulty:** 🟡 Medium
+
 **View:** [adventjs.dev/en/challenges/2025/15](https://adventjs.dev/en/challenges/2025/15)
 
 ## Instructions

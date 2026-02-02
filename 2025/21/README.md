@@ -1,6 +1,7 @@
 # Challenge 21: 🤖 The cleaning robot
 
 **Difficulty:** 🟡 Medium
+
 **View:** [adventjs.dev/en/challenges/2025/21](https://adventjs.dev/en/challenges/2025/21)
 
 ## Instructions

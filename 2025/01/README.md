@@ -1,6 +1,7 @@
 # Challenge 01: 🎁 Filter the defective gifts
 
 **Difficulty:** 🟢 Easy
+
 **View:** [adventjs.dev/en/challenges/2025/1](https://adventjs.dev/en/challenges/2025/1)
 
 ## Instructions

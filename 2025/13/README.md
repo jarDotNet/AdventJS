@@ -1,6 +1,7 @@
 # Challenge 13: 🏭 The assembly line
 
 **Difficulty:** 🟡 Medium
+
 **View:** [adventjs.dev/en/challenges/2025/13](https://adventjs.dev/en/challenges/2025/13)
 
 ## Instructions

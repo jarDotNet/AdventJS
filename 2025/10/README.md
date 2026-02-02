@@ -1,6 +1,7 @@
 # Challenge 10: 📨 Depth of Christmas magic
 
 **Difficulty:** 🟢 Easy
+
 **View:** [adventjs.dev/en/challenges/2025/10](https://adventjs.dev/en/challenges/2025/10)
 
 ## Instructions

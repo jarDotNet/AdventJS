@@ -1,6 +1,7 @@
 # Challenge 08: 🎁 Find the unique toy
 
 **Difficulty:** 🟢 Easy
+
 **View:** [adventjs.dev/en/challenges/2025/8](https://adventjs.dev/en/challenges/2025/8)
 
 ## Instructions

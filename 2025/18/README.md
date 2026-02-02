@@ -1,6 +1,7 @@
 # Challenge 18: 🎄 Lights in line with diagonals
 
 **Difficulty:** 🟡 Medium
+
 **View:** [adventjs.dev/en/challenges/2025/18](https://adventjs.dev/en/challenges/2025/18)
 
 ## Instructions

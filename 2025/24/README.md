@@ -1,6 +1,7 @@
 # Challenge 24: 🪞 Check if trees are magical mirrors
 
 **Difficulty:** 🟡 Medium
+
 **View:** [adventjs.dev/en/challenges/2025/24](https://adventjs.dev/en/challenges/2025/24)
 
 ## Instructions

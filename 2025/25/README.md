@@ -1,6 +1,7 @@
 # Challenge 25: 🪄 Execute the magical language
 
 **Difficulty:** 🟡 Medium
+
 **View:** [adventjs.dev/en/challenges/2025/25](https://adventjs.dev/en/challenges/2025/25)
 
 ## Instructions

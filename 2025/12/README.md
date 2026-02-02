@@ -1,6 +1,7 @@
 # Challenge 12: ⚔️ Elf battle
 
 **Difficulty:** 🟡 Medium
+
 **View:** [adventjs.dev/en/challenges/2025/12](https://adventjs.dev/en/challenges/2025/12)
 
 ## Instructions

@@ -1,6 +1,7 @@
 # Challenge 06: 🧤 Matching gloves
 
 **Difficulty:** 🟢 Easy
+
 **View:** [adventjs.dev/en/challenges/2025/6](https://adventjs.dev/en/challenges/2025/6)
 
 ## Instructions

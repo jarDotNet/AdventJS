@@ -1,6 +1,7 @@
 # Challenge 09: 🦌 The reno robot aspirator
 
 **Difficulty:** 🔴 Hard
+
 **View:** [adventjs.dev/en/challenges/2025/9](https://adventjs.dev/en/challenges/2025/9)
 
 ## Instructions

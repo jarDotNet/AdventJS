@@ -1,6 +1,7 @@
 # Challenge 16: 🎁 Packing gifts for Santa
 
 **Difficulty:** 🟢 Easy
+
 **View:** [adventjs.dev/en/challenges/2025/16](https://adventjs.dev/en/challenges/2025/16)
 
 ## Instructions

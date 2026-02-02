@@ -1,6 +1,7 @@
 # Challenge 19: 🎄 Santa's Secret Journey
 
 **Difficulty:** 🟢 Easy
+
 **View:** [adventjs.dev/en/challenges/2025/19](https://adventjs.dev/en/challenges/2025/19)
 
 ## Instructions
